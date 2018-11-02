@@ -18,6 +18,7 @@ seaborn = "*"
 [dev-packages]
 isort = "*"
 prospector = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.6"
