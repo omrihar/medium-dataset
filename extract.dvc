@@ -1,0 +1,9 @@
+cmd: scripts/inflate.sh data/medium-stories.zip data data/Medium_Clean.csv
+deps:
+- md5: cb5abe3c1256c389b3d6607d9ea01628
+  path: data/medium-stories.zip
+md5: 3dcae494c7f54a3f42bc3a55bff007dd
+outs:
+- cache: true
+  md5: 4ea85f806867ef4d4c37bbf70a2dbba8
+  path: data/Medium_Clean.csv
