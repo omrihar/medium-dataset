@@ -14,11 +14,14 @@ statsmodels = "*"
 sklearn = "*"
 spacy = "*"
 seaborn = "*"
+jupyter = "*"
+nbextensions = "*"
 
 [dev-packages]
 isort = "*"
 prospector = "*"
 ipython = "*"
+jupyterthemes = "*"
 
 [requires]
 python_version = "3.6"
