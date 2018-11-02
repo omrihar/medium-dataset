@@ -6,6 +6,14 @@ name = "pypi"
 [packages]
 pip = "==18.0"
 dvc = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+pandas = "*"
+statsmodels = "*"
+sklearn = "*"
+spacy = "*"
+seaborn = "*"
 
 [dev-packages]
 
