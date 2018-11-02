@@ -16,6 +16,8 @@ spacy = "*"
 seaborn = "*"
 
 [dev-packages]
+isort = "*"
+prospector = "*"
 
 [requires]
 python_version = "3.6"
